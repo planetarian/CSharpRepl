@@ -30,6 +30,7 @@ These methods are persistent for the current session.
 > method int Add (int x, int y)
 Add> return x+y;
 Method Add defined.
+
 > return Add(42,500);
 Output:
 542
